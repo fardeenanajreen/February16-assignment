@@ -1,0 +1,15 @@
+#Loops problem
+
+if __name__ == '__main__':
+    n = int(input('Enter number:'))
+    for i in range(0,n):
+        print(i*i)
+
+
+
+OUTPUT:
+Enter number: 5
+0
+4
+9
+16
